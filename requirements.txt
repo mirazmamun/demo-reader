@@ -1,0 +1,31 @@
+attrs==19.1.0
+aws-cdk.core==1.6.1
+aws-cdk.cx-api==1.6.1
+bleach==3.1.0
+bumpversion==0.5.3
+cattrs==0.9.0
+# Editable Git install with no remote (cdkdemo==0.0.1)
+-e /Users/mal-mamun/projects/personal/cdk/cdkdemo/cdkdemo
+certifi==2019.6.16
+chardet==3.0.4
+docutils==0.15.2
+feedparser==5.2.1
+html2text==2019.8.11
+idna==2.8
+importlib-resources==1.0.2
+jsii==0.15.2
+pkginfo==1.5.0.1
+publication==0.0.3
+Pygments==2.4.2
+python-dateutil==2.8.0
+readme-renderer==24.0
+-e git+https://github.com/mirazmamun/demo-reader.git@b923d4b6ca4747aaed9c486fb0646dfc738f1a55#egg=realpython_reader
+requests==2.22.0
+requests-toolbelt==0.9.1
+six==1.12.0
+tqdm==4.35.0
+twine==1.13.0
+typing==3.7.4.1
+typing-extensions==3.7.4
+urllib3==1.25.3
+webencodings==0.5.1
